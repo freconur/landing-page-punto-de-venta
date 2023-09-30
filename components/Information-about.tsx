@@ -29,7 +29,7 @@ const InformationAbout = () => {
               <BiSupport className="text-blue-300 h-[35px] w-[35px] mr-2" />
               <p>Soporte tecnico</p>
             </h4>
-            <p className='text-slate-500 text-md font-poppins'>Queremos que tu experiencia con nuestra aplicacion de punto de venta sea la mejor, por eso estamos dispuestos ayudarte ante cualquier eventualidad que pueda ocurrir con la aplicacion, asi que estamos dispuestos a brindarte soporte tecnico 24/7 para que productividad nunca pare.</p>
+            <p className='text-slate-500 text-md font-poppins'>Queremos que tu experiencia con nuestra aplicacion de punto de venta sea la mejor, por eso estamos dispuestos ayudarte ante cualquier eventualidad que pueda ocurrir con la aplicacion, asi que estamos dispuestos a brindarte soporte tecnico 24/7 para que tu productividad nunca pare.</p>
           </div>
 
           <div className='py-5'>

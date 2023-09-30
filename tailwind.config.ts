@@ -47,7 +47,8 @@ const config: Config = {
         'gd6':'#228ec8',
         'gd7':'#252876',
         'location':'#13a19c',
-        'footer':'#1072b0'
+        'footer':'#1072b0',
+        'contactanos':'#158cd7'
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',

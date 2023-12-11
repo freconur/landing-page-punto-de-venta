@@ -6,7 +6,7 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <section className='w-full'>
-      <Link href="/">
+      <Link target="_blank" href="https://wa.me/51982752688?text=hola, estoy interesado en la aplicación de punto de venta mypos, como puedo contratar el servicio?">
       <Image 
       className='hidden sm:block'
       src={header}

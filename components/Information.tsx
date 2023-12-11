@@ -2,10 +2,10 @@ import React from 'react'
 import { AiFillCaretRight } from "react-icons/ai";
 const Information = () => {
   return (
-    <section className='px-[30px] grid justify-center w-full items-center py-[30px] bg-blue-100'>
+    <section className='px-[30px] grid justify-center w-full items-center py-[100px] bg-blue-100'>
       <div className='max-w-[900px]'>
-        <div className='grid max-w-[310px] xsm:max-w-[550px] cs:max-w-[700px] lg:max-w-[800px] lg:grid-cols-2'>
-          <div className='py-5 '>
+        <div className='grid max-w-[310px] gap-[20px] xsm:max-w-[550px] cs:max-w-[700px] lg:max-w-[900px] lg:grid-cols-2'>
+          <div className=''>
             <h4 className='flex  items-center my-4 text-xl text-blue-600 font-montserrat font-semibold uppercase'>
               <AiFillCaretRight className="text-orange-400" />
               <p>Rapido y seguro</p>

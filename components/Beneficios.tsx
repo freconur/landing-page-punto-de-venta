@@ -2,7 +2,7 @@ import React from 'react'
 import { GrEmoji } from "react-icons/gr";
 const Beneficios = () => {
   return (
-    <section className='px-[30px] grid justify-center w-full items-center py-[30px] bg-white'>
+    <section id="beneficios" className='px-[30px] grid justify-center w-full items-center py-[30px] bg-white'>
       <div className='max-w-[900px]'>
         <h2 className='text-2xl font-semibold font-montserrat uppercase text-blue-400 text-left max-w-[900px]'>Que beneficios tendras con nuestra aplicion de punto de venta?</h2>
         <div className='grid gap-5 grid-cols-1 lg:grid-cols-2 py-10 text-slate-500 text-lg font-poppins'>

@@ -2,7 +2,7 @@ import React from 'react'
 import { BsFillCheckSquareFill } from "react-icons/bs";
 const Funcionalidades = () => {
   return (
-    <section className='px-[30px] grid justify-center w-full items-center py-[30px] bg-white'>
+    <section className='px-[30px] grid justify-center w-full items-center pt-[100px] bg-white'>
       <div className='max-w-[900px]'>
         <h2 className='text-3xl font-semibold font-poppins  text-blue-400 text-center max-w-[900px]'>Que puedes hacer con la aplicacion MyPOS?</h2>
         <div className='grid gap-5 grid-cols-1 lg:grid-cols-2 py-10 text-slate-500 text-lg font-poppins'>
